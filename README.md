@@ -77,4 +77,4 @@ Com o servidor rodando localmente na porta 80, a página falsa foi acessada via 
 
 ---
 
-*Projeto educacional desenvolvido por [SEU NOME AQUI] como parte do bootcamp Santander + DIO de Cibersegurança.*
+*Projeto educacional desenvolvido por Luciano de I. Tonon como parte do bootcamp Santander + DIO de Cibersegurança.*
